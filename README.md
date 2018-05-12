@@ -40,5 +40,5 @@
     ./configure --with-cc='win32fe cl' --with-cxx='win32fe cl' --with-mpi-include=/cygdrive/e/tools/MSMPIV~1.1/Include --with-mpi-lib='/cygdrive/e/tools/MSMPIV~1.1/Lib/x64/msmpi.lib' --with-mpi-mpiexec='/cygdrive/e/tools/MSMPIV~1.1/Bin/mpiexec.exe' --with-debugging=0 --with-blas-lapack-dir=/c/PROGRA~2/INTELS~1/COMPIL~1.185/windows/mkl/lib/INTEL6~1 --with-clanguage=c --CFLAGS='-D_CRT_SECURE_NO_DEPRECATE -MTd' --FFLAGS='-MTd' --CXXFLAGS='-MTd' --with-numdiff=0 --with-valgrind=0 --ignore-cygwin-link --with-c2html=0 --download-sowing=0 --with-fortran=0 --with-fc=0 --with-windows-graphics=0 --with-x11=0
 
 
-п.с. кидаем два батника в папку с цингвином \х64\, если х86, нужно отредактировать батники под нужную архитектуру
+п.с. кидаем два батника в папку с цингвином \х64\, у меня он установлен на диск H, H:/cygwin, редактируем батник, если х86, нужно отредактировать батники под нужную архитектуру
 запускаем Cygwin.bat, конфигурируем, и да, в цингвине должны быть установлены все зависимости, как в офф мануале
