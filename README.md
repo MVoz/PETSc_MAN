@@ -44,7 +44,11 @@
 запускаем Cygwin.bat, конфигурируем, и да, в цингвине должны быть установлены все зависимости, как в офф мануале
 
 как пример
+
 http://www.mcs.anl.gov/petsc/documentation/installation.html#windows
+
 https://github.com/petsc/petsc/blob/master/config/examples/arch-mswin-opt-impi.py
+
 https://www.gridpack.org/wiki/index.php/Building_on_Windowsс
+
 https://github.com/INMOST-DEV/INMOST/wiki/0206-Compilation-PETSc-Windows
