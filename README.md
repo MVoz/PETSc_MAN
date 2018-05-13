@@ -1,6 +1,8 @@
 
 # PETSc ... 
 
+PETSc is 3.9 \\ MSVC 14 \\ Intel 18
+
 В общем долго пытался найти точки соприкосновения с данным продуктом, но никак не мог сконфигурировать, то питон ему подавай с цигвина, то строки не верны, то ... в общем создание конфигурации занимает ну очень продолжительное время, в отличии сборки, которая длится минуты
 
 сразу обмолвлюсь, конфигуратор не любит длинные имена и пробелы в путях, надо сокращать до 8.3 символов
@@ -52,3 +54,15 @@ https://github.com/petsc/petsc/blob/master/config/examples/arch-mswin-opt-impi.p
 https://www.gridpack.org/wiki/index.php/Building_on_Windowsс
 
 https://github.com/INMOST-DEV/INMOST/wiki/0206-Compilation-PETSc-Windows
+
+http://documentation.pflotran.org/user_guide/how_to/installation/windows_visual_studio.html
+
+https://docs.google.com/document/d/19oFOjK1B_p2D2ZEvWHVTngno_-g3SPi4PBwcF4mm4Yc/edit#heading=h.55m9zfhq3sqa
+
+http://www.oofem.org/wiki/doku.php?id=installing_optional
+
+http://math-atlas.sourceforge.net/atlas_install/node56.html
+
+http://math-atlas.sourceforge.net/atlas_install/node60.html
+
+https://www.sharcnet.ca/help/index.php/PETSC_SLEPC
